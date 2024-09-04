@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.not-found-cont {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-cont img {
+  height: 25rem;
+  width: 25rem;
+  object-fit: cover;
+  object-position: center;
+}

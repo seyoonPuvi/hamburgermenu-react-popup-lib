@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.home-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50rem;
+}
+
+.home-cont img {
+  height: 40rem;
+  width: 40rem;
+  object-fit: cover;
+  object-position: center;
+}
